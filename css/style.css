@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(2, 5, 25) ;
+    color:#fff;
+    font-family: 'segoe  ui light';
+    font-weight: 900;
+}
+
+h2{
+    cursor: pointer;
+    transition: 0.2s;
+    height: 50%;
+}
+
+
+h2:hover{
+    background-color: #09c;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#particles-js{
+    z-index: -1;
+}
+
